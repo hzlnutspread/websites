@@ -23,10 +23,10 @@
     --bg-gradient-peach: linear-gradient(to right, #fff7f3, #fff7f3);
 
     /* images */
-    --bg-cover: url('/images/bgimg1.png');
-    --bg-image1: url('/images/img1.png');
-    --bg-image2: url('/images/img2.png');
-    --bg-image3: url('/images/img3.png');
+    --bg-cover: url('/my_second_website/images/bgimg1.png');
+    --bg-image1: url('/my_second_website/images/img1.png');
+    --bg-image2: url('/my_second_website/images/img2.png');
+    --bg-image3: url('/my_second_website/images/img3.png');
 }
 
 * > * {
@@ -287,7 +287,7 @@ ul {
 
 body {
     width: 100%;
-    background: url('/images/backgroundpng.png');
+    background: url('/my_third_website/images/backgroundpng.png');
     background: no-repeat;
     background-size: cover;
 }
